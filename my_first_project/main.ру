@@ -1,0 +1,5 @@
+print("hello World")
+print("Меня зовут Ксения")
+print("Мне 42 года")
+print("Я изучаю Python")
+print("Я мама троих детей")
